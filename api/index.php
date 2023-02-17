@@ -9,7 +9,7 @@
 </head>
 <body>
 	<h1>Hello php</h1>
-	<a href="/api/index.php">リンク</a>
+
 	<ul>
 	<?php
 	for($i=0;$i<100;$i++){
